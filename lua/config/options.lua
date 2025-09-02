@@ -3,3 +3,6 @@
 -- Add any additional options here
 
 vim.opt.cursorline = false
+vim.opt.wrap = true
+vim.opt.linebreak = false
+vim.opt.spelllang = { "en", "cjk" }
